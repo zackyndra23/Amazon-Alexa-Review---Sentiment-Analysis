@@ -18,9 +18,7 @@ The project employs machine learning techniques to achieve high accuracy in sent
 2. Analyzing frequently occurring words in negative and positive reviews to understand underlying sentiments.
 3. Visualizing the distribution of words according to desired parameters.
 
-<center><img alt="All Reviews" width="80%" src="https://github.com/zackyndra23/Amazon-Alexa-Review-Sentiment-Analysis/blob/main/Cloud%20Neceessary/parrot_all.png?raw=true)"></center>
-
-
+<center><img alt="All Reviews" width="50%" src="https://github.com/zackyndra23/Amazon-Alexa-Review-Sentiment-Analysis/blob/main/Cloud%20Neceessary/parrot_all.png?raw=true)"></center>
 
 ## **Conclusion and Recommendations**
 - From a machine learning perspective, employing NLP techniques enhances the accuracy of sentiment analysis, thereby providing valuable insights for businesses. However, to maximize the effectiveness of such analyses, businesses should:
