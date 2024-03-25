@@ -1,33 +1,30 @@
-# Amazon-Alexa-Reviews
+![Banner logo](https://github.com/zackyndra23/Data_Science/blob/main/Banner1.jpg?raw=true)
 
-## Watch Video: https://www.youtube.com/watch?v=6A2w-KYG4Ko
+# **Amazon Alexa Review - Sentiment Analysis**
+*by Zaky Indra Satria Putra
 
-## HOW TO RUN
+## **Introduction**
+This project focuses on utilizing Natural Language Processing (NLP) techniques for sentiment analysis, specifically targeting Amazon Alexa reviews. The aim is to analyze and predict whether a review is negative or positive based on the provided data.
 
-Step 1: Clone the repository
-```
-git clone https://github.com/Surbhit01/Amazon-Alexa-Reviews.git
-```
+## **Context**
+In today's digital era, customer feedback plays a crucial role in shaping business strategies. With the proliferation of e-commerce platforms like Amazon, understanding customer sentiment through their reviews becomes paramount for businesses. NLP and sentiment analysis enable businesses to extract actionable insights from vast amounts of unstructured textual data, allowing them to refine products, services, and marketing strategies.
 
-Step 2: Open the cloned repository and create a conda environment. Activate the new environment
-```
-conda create -n amazonreview python=3.10
-```
-```
-conda activate amazonreview
-```
+## **Problem Definition**
+The ability to accurately evaluate and classify reviews as negative or positive empowers businesses to make informed decisions. By identifying patterns and common characteristics in negative and positive reviews, businesses can devise strategies to address shortcomings and capitalize on strengths.
 
-Step 3: Install the requirements file
-```
-pip install -r requirements.txt
-```
+## **Methodology**
+The project employs machine learning techniques to achieve high accuracy in sentiment classification. This involves:
+1. Training a machine learning model with labeled data to classify reviews.
+2. Analyzing frequently occurring words in negative and positive reviews to understand underlying sentiments.
+3. Visualizing the distribution of words according to desired parameters.
 
-Step 4: Run the app
-```
-flask --app api.py run
-```
+<center><img alt="All Reviews" width="20%" src="[https://news.airbnb.com/wp-content/uploads/sites/4/2020/04/Airbnb_Lockup_Over_Gradient.png](https://github.com/zackyndra23/Amazon-Alexa-Review-Sentiment-Analysis/blob/main/Cloud%20Neceessary/parrot_all.png?raw=true)"></center>
 
-Step 5: The app will run on port 5000. 
-```
-localhost:5000
-```
+
+
+## **Conclusion and Recommendations**
+- From a machine learning perspective, employing NLP techniques enhances the accuracy of sentiment analysis, thereby providing valuable insights for businesses. However, to maximize the effectiveness of such analyses, businesses should:
+1. Continuously update and refine the model with new data to adapt to evolving customer sentiments.
+2. Utilize the insights gained from sentiment analysis to tailor products, services, and marketing strategies to meet customer expectations and preferences.
+3. By integrating NLP-based sentiment analysis into their operations, businesses can better understand their customers, improve customer satisfaction, and ultimately drive growth and success.
+
