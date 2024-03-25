@@ -18,7 +18,7 @@ The project employs machine learning techniques to achieve high accuracy in sent
 2. Analyzing frequently occurring words in negative and positive reviews to understand underlying sentiments.
 3. Visualizing the distribution of words according to desired parameters.
 
-<center><img alt="All Reviews" width="20%" src="[https://news.airbnb.com/wp-content/uploads/sites/4/2020/04/Airbnb_Lockup_Over_Gradient.png](https://github.com/zackyndra23/Amazon-Alexa-Review-Sentiment-Analysis/blob/main/Cloud%20Neceessary/parrot_all.png?raw=true)"></center>
+<center><img alt="All Reviews" width="20%" src="https://github.com/zackyndra23/Amazon-Alexa-Review-Sentiment-Analysis/blob/main/Cloud%20Neceessary/parrot_all.png?raw=true)"></center>
 
 
 
